@@ -43,6 +43,7 @@ let itemsarray:{name:string,prize:string,description:string,image:string}[]=[
 // }
 let pencil = new item(itemsarray[0].name,itemsarray[0].prize,itemsarray[0].description,itemsarray[0].image);
 
+//this is new 
 
 
 pencil.assignvaluetoitems();
